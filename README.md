@@ -1,5 +1,5 @@
-# NLP-Twitter
-This a program looks at Natural Language Processing techniques, providing summary and sentiment analysis for various US politicians.  
+# NLP-Twitter-Political-Classifier
+This a program looks at Natural Language Processing techniques, providing summary and sentiment analysis for various US politicians. The goal of the output is identify the party of political affiliation
 
 ## Libraries
 Numpy <br>
