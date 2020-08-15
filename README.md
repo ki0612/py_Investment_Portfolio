@@ -2,11 +2,17 @@
 This a program looks at Natural Language Processing techniques, providing summary and sentiment analysis for various US politicians. The goal of the output is identify the party of political affiliation
 
 ## Libraries
-Numpy <br>
+os <br>
+tweepy <br>
+pandas <br>
 beautifulsoup <br>
 
 #Table of Contents
 <ol> Pre-requisites</ol>
+consumer_key= 'yourkeyhere' <br>
+consumer_secret= 'yourkeyhere' <br>
+access_token= 'yourkeyhere' <br>
+access_token_secret= 'yourkeyhere' <br>
 how to install <br>
 Data Collection <br>
 2. Data Scrubbing <br>
@@ -14,6 +20,12 @@ Data Collection <br>
 4. Benchmarking <br>
 5. Notes on Training <br>
 License <br>
+
+## Pre-requisites
+consumer_key= 'yourkeyhere' <br>
+consumer_secret= 'yourkeyhere' <br>
+access_token= 'yourkeyhere' <br>
+access_token_secret= 'yourkeyhere' <br>
 
 
 
